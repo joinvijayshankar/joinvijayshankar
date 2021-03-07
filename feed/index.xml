@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>https://joinvijayshankar.github.io/joinvijayshankar/wp-content/uploads/2020/12/LIC-Logo-PNG-Transparent-HD.png</url>
+	<title>Vijay Shankar</title>
+	<link>https://joinvijayshankar.github.io/joinvijayshankar</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://joinvijayshankar.github.io/joinvijayshankar/2021/02/03/hello-world/</link>
